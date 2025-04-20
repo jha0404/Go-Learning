@@ -1,0 +1,59 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Noida, India",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Noida",
+        "country": "India",
+        "region": "Uttar Pradesh",
+        "lat": "28.570",
+        "lon": "77.320",
+        "timezone_id": "Asia/Kolkata",
+        "localtime": "2025-04-19 19:24",
+        "localtime_epoch": 1745090640,
+        "utc_offset": "5.50"
+    },
+    "current": {
+        "observation_time": "01:54 PM",
+        "temperature": 33,
+        "weather_code": 143,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0006_mist.png"
+        ],
+        "weather_descriptions": [
+            "Haze"
+        ],
+        "astro": {
+            "sunrise": "05:51 AM",
+            "sunset": "06:49 PM",
+            "moonrise": "No moonrise",
+            "moonset": "09:55 AM",
+            "moon_phase": "Waning Gibbous",
+            "moon_illumination": 70
+        },
+        "air_quality": {
+            "co": "484.7",
+            "no2": "6.475",
+            "o3": "158",
+            "so2": "15.355",
+            "pm2_5": "146.52",
+            "pm10": "1233.58",
+            "us-epa-index": "4",
+            "gb-defra-index": "4"
+        },
+        "wind_speed": 12,
+        "wind_degree": 219,
+        "wind_dir": "SW",
+        "pressure": 1002,
+        "precip": 0,
+        "humidity": 44,
+        "cloudcover": 0,
+        "feelslike": 31,
+        "uv_index": 0,
+        "visibility": 4,
+        "is_day": "no"
+    }
+}
